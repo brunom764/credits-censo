@@ -1,2 +1,2 @@
 # credits-censo
-Machine learning e Data Science
+ Projeto usando Machine learning e Data Science com python
