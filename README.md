@@ -1,4 +1,4 @@
-# credits-censo
+# Machine Learning
  Projeto usando Machine learning e Data Science com python
 
 ### 🛠 Tecnologias
