@@ -10,3 +10,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Matplotlib
 - Sklearn
 - Orange
+- Google colab
