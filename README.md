@@ -11,3 +11,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Sklearn
 - Orange
 - Google colab
+- OpenCV
