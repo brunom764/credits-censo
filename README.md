@@ -4,6 +4,9 @@
 ## 🛠 Tópicos
 - Machine learning
 - Regressão
+- Agrupamento
+- Redes neurais
+- Aprendizagem com reforço com Qlearning
 - Visão computacional
 - Série Temporal
  
