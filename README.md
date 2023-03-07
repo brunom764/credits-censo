@@ -9,7 +9,7 @@
 - Aprendizagem com reforço com Qlearning
 - Visão computacional
 - Série Temporal
-- Linguagem natural
+- Processamento de linguagem natural
  
 
 ## 🛠 Tecnologias
