@@ -6,6 +6,7 @@
 - Regressão
 - Agrupamento
 - Redes neurais
+- Regras de associação
 - Aprendizagem com reforço com Qlearning
 - Visão computacional
 - Série Temporal
