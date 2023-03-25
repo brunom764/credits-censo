@@ -1,5 +1,5 @@
 # Machine Learning
- Projetos usando Machine learning e Data Science com python
+ Projetos usando Machine learning e Data Science com python.
  
 ## 🛠 Tópicos
 - Machine learning
